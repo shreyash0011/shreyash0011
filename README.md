@@ -40,6 +40,12 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 - Gaming Achievements: [Currently 3.2k+ Hours Playing on steam -> CS:GO, ]
 - Gaming Interests: [FPV/TPV, Genre - Tactical shooter, Battle royale, Action-adventure]
 
+## FPV Drones and FPV Pilot
+
+- Experience in Building FPV Drones: [5" FPV Analog]
+- FPV Pilot Skills: [I have freestyle flying, or aerial photography/videography.]
+- FPV Equipment: [FC- F722 MK3 Diatone Mamba, ESC - Diatone Mamba 50A, Motors - Emax Eco 2/1700KV, Goggles - Skyzone Cobra X V2, Radiomaster TX16S, TX/RX - ExpressLRS]
+
 ## StackOverflow
 [![Stack Overflow](https://stackoverflow.com/users/flair/10082168.png)](https://stackoverflow.com/users/10082168/jason0011)
 
