@@ -17,9 +17,9 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
   - [React.js. Node.js]
   - HTML - [CSS/SCSS]
 
-- Software Development:
-  - JavaScript
-  - C++ (Arduino, Pi Programming)
+- Robotics Development:
+  - C, C++ (Arduino, Pi Programming)
+  - Lua (Script) ExpressLRS
 
 - Operating Systems:
   - Linux (Ubuntu, Debian, Arch, Kali]
@@ -32,15 +32,13 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
   - Raspberry Pi
   - Embedded devices*
 
-## Projects
-N/A
+# Gaming Nerd
 
-## Experience
-N/A
-
-## Education
-N/A
-N/A
+- Favorite Games: [CS, CS:GO, CS2]
+- Preferred Gaming Platforms: [Steam, ubisoft, rockstar games]
+- Game Development Experience: [I have game Testing experince of Counter Strike 2, I was the Valve Invite Member for CS2 Beta Tester
+- Gaming Achievements: [Currently 3.2k+ Hours Playing on steam -> CS:GO, ]
+- Gaming Interests: [FPV/TPV, Genre - Tactical shooter, Battle royale, Action-adventure]
 
 ## StackOverflow
 [![Stack Overflow](https://stackoverflow.com/users/flair/10082168.png)](https://stackoverflow.com/users/10082168/jason0011)
