@@ -42,7 +42,7 @@ N/A
 N/A
 
 ## StackOverflow
-[![Stack Overflow](https://stackoverflow.com/users/flair/10082168)](https://stackoverflow.com/users/10082168/jason0011)You can reach me via email at [your email address] or connect with me on [LinkedIn](https://www.linkedin.com/in/your-profile).
+[![Stack Overflow](https://stackoverflow.com/users/flair/10082168)](https://stackoverflow.com/users/10082168/jason0011)
 
 ## Fun Fact
 >_ Have fun in cyberspace and meatspace	
