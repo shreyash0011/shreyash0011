@@ -29,7 +29,8 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 
 - Electronics:
   - Arduino
-  - Raspberry Pi 
+  - Raspberry Pi
+  - Embedded devices*
 
 ## Projects
 N/A
