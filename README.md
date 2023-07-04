@@ -36,7 +36,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 
 - Favorite Games: [CS, CS:GO, CS2]
 - Preferred Gaming Platforms: [Steam, ubisoft, rockstar games]
-- Game Development Experience: [I have game Testing experince of Counter Strike 2, I was the Valve Invite Member for CS2 Beta Tester
+- Game Development Experience: [I have game Testing experince of Counter Strike 2, Im the Valve Invited Member for CS2 Beta Tester
 - Gaming Achievements: [Currently 3.2k+ Hours Playing on steam -> CS:GO, ]
 - Gaming Interests: [FPV/TPV, Genre - Tactical shooter, Battle royale, Action-adventure]
 
