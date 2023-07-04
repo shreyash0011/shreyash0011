@@ -1,7 +1,8 @@
 # Hello, I'm shreyash 👋
 
 ## About Me
-I'm a passionate Engineer with a professional background in web development. I have a strong interest in electronics and robotics, combining my technical skills to create innovative projects.
+## About Me
+I'm a passionate Engineer with a background in web development, driven by a love for learning and continuous growth. With a strong interest in electronics and robotics, I enjoy combining my technical skills to create innovative projects. I approach my endeavors as a perpetual student, embracing new challenges and seeking knowledge to fuel my curiosity and drive my creative solutions.
 
 With experience as a web developer, I specialize in building dynamic and responsive websites using technologies like PHP, React.js, and Node.js. I enjoy the creative aspects of web design, implementing intuitive user interfaces and crafting engaging user experiences.
 
