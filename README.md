@@ -14,7 +14,7 @@ I'm constantly seeking new challenges and opportunities to expand my knowledge a
 ## Skills
 - Web Development:
   - PHP
-  - [React.js. Node.js]
+  - JavaScript - [React.js. Node.js]
   - HTML - [CSS/SCSS]
 
 - Robotics Development:
