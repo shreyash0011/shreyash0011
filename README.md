@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate Engineer with a background in web development, driven by a love for learning and continuous growth. With a strong interest in electronics and robotics, I enjoy combining my technical skills to create innovative projects. I approach my endeavors as a perpetual student, embracing new challenges and seeking knowledge to fuel my curiosity and drive my creative solutions.
 
-With experience as a web developer, I specialize in building dynamic and responsive websites using technologies like PHP, React.js, and Node.js. I enjoy the creative aspects of web design, implementing intuitive user interfaces and crafting engaging user experiences.
+With experience as a web developer, I specialize in building dynamic and responsive websites/web app using technologies like PHP, React.js, and Node.js. I enjoy the creative aspects of web design, implementing intuitive user interfaces and crafting engaging user experiences.
 
 Beyond web development, I also explore my love for electronics and robotics. I have expertise in working with Arduino and Raspberry Pi, designing and building projects such as Arduino-based robots and Raspberry Pi, FPV drones. This combination of software development and electronics allows me to bridge the gap between the digital and physical worlds.
 
