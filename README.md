@@ -6,16 +6,14 @@ I'm a passionate Engineer with a background in web development, driven by a love
 # Gaming Nerd
 
 - Favorite Games: [CS, CS:GO, CS2]
-- Preferred Gaming Platforms: [Steam, ubisoft, rockstar games]
 - Game Development Experience: [I have game Testing experince of Counter Strike 2, Im the Valve Invited Member for CS2 Beta Tester
 - Gaming Achievements: [Currently 3.2k+ Hours Playing on steam -> CS:GO, ]
 - Gaming Interests: [FPS/FPV/TPV, Genre - Tactical shooter, Battle royale, Action-adventure]
 
 ## FPV Drones Maker and FPV Pilot
 
-- Experience in Building FPV Drones: [5" FPV Analog]
+- Experience in Building FPV Drones: [5" FPV Analog/Digital]
 - FPV Pilot Skills: [I have freestyle flying, or aerial photography/videography.]
-- FPV Equipment: [FC- F722 MK3 Diatone Mamba, ESC - Diatone Mamba 50A, Motors - Emax Eco 2/1700KV, DJI O3 Air Unit, Goggles - DJI Goggles 2, Radiomaster TX16S, TX/RX - ExpressLRS]
 
 ## StackOverflow
 [![Stack Overflow](https://stackoverflow.com/users/flair/10082168.png)](https://stackoverflow.com/users/10082168/jason0011)
