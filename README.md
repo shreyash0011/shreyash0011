@@ -13,7 +13,7 @@ I'm a passionate Engineer with a background in web development, driven by a love
 ## FPV Drones Maker and FPV Pilot
 
 - Experience in Building FPV Drones: [5" FPV Analog/Digital]
-- FPV Pilot Skills: [I have freestyle flying, or aerial photography/videography.]
+- FPV Pilot Skills: [I have freestyle flying && aerial photography/videography.]
 
 ## StackOverflow
 [![Stack Overflow](https://stackoverflow.com/users/flair/10082168.png)](https://stackoverflow.com/users/10082168/jason0011)
