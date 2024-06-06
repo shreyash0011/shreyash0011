@@ -7,8 +7,6 @@ I'm a passionate Engineer with a background in web development, driven by a love
 
 - Favorite Games: [CS-1.6, CS:GO, CS2]
 - Game Development Experience: [I have game Testing experince of Counter Strike 2, Im the Valve Invited Member for CS2 Beta Tester
-- Gaming Achievements: [Currently 3.2k+ Hours Playing on steam -> CS:GO, ]
-- Gaming Interests: [FPS/FPV/TPV, Genre - Tactical shooter, Battle royale, Action-adventure]
 
 ## FPV Drones Maker and FPV Pilot
 
