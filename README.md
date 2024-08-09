@@ -1,14 +1,14 @@
 # Hello, I'm shreyash 👋
 
 ## About Me
-I'm a passionate Engineer with a background in web development, driven by a love for learning and continuous growth. With a strong interest in electronics and robotics, I enjoy combining my technical skills to create innovative projects. I approach my endeavors as a perpetual student, embracing new challenges and seeking knowledge to fuel my curiosity and drive my creative solutions.
+I'm a passionate Engineer with a background in software development, driven by a love for learning and continuous growth. With a strong interest in electronics and robotics, I enjoy combining my technical skills to create innovative projects. I approach my endeavors as a perpetual student, embracing new challenges and seeking knowledge to fuel my curiosity and drive my creative solutions.
 
 # Gaming Nerd
 
 - Favorite Games: [CS-1.6, CS:GO, CS2]
-- Game Development Experience: [I have game Testing experince of Counter Strike 2, Im the Valve Invited Member for CS2 Beta Tester
+- Game Development Experience: [I have game Testing experince of Counter Strike 2, Im the Valve Invited Member for CS2 Beta Tester.
 
-## FPV Drones Maker and FPV Pilot
+## FPV Drones Maker/Pilot
 
 - Experience in Building FPV Drones: [5" FPV Analog/Digital]
 - FPV Pilot Skills: [I have freestyle flying && aerial photography/videography.]
