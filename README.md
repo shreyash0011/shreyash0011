@@ -17,5 +17,5 @@ I'm a passionate Engineer with a background in software development, driven by a
 [![Stack Overflow](https://stackoverflow.com/users/flair/10082168.png)](https://stackoverflow.com/users/10082168/jason0011)
 
 ## Fun Fact
->_ Have fun in cyberspace and meatspace
+> `>_ Have fun in cyberspace and meatspace`
 
